@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /*background-color: #fff;*/
+}
+
+
+/*======================HTML code Example=====================*/
+
+
+/*===========-----Back Button-----=============*/
+
+
+/*#back-button{
+  margin-left: 50px;
+}*/
+
+
+/*============ End back-button=============*/
+
+
+/*========== socials-icon ===========*/
+
+.socials {
+    box-sizing: border-box;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.widget-sidebar {
+    margin: 44px;
+}
+
+.widget-sidebar,
+.sidebar-content li {
+    list-style: none;
+}
+
+.sidebar-content,
+.sidebar-content ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+
+/*=====================-----------HTMLTags---------=====================*/
+
+.text {
+    margin: 20px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.text-title {
+    text-align: center;
+    /*margin: 50px;*/
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.text-title:hover {
+    opacity: 0.8px;
+    color: blue;
+}
+
+.card {
+    /*width: 20rem;*/
+    border: none;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 50px;
+    cursor: pointer;
+}

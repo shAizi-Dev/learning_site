@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*main*/
+.feature li{
+	padding-left: 50px;
+	text-transform: small;
+	color:  #b3b3b3;
+}
+#id{
+
+	border-bottom: 1px solid #908986;
+}
+#theory{
+	margin-top: 50px;	
+}
+.card{
+	margin-top: 50px;
+	padding: 10px;
+}
+.card a{
+	padding: 50px;
+}
+.card a:hover{
+	color: #eec53d;
+}
